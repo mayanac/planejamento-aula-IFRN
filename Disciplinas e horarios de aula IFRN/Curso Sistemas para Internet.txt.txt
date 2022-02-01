@@ -1,0 +1,6 @@
+# Disciplinas (Filosofia, Front-end e BD)
+
+Segunda Feira: Filosofia 14:00 as 15:30
+Terça Feira  : Front-end 14:00 as 16:30
+Quarta Feira : Banco de Dados 14:00 as 16:30
+Quinta e Sexta: Estudar no laboratorio 14:00 as 17:00
